@@ -1,8 +1,8 @@
-<a href="https://azuredeploy.net/?repository=https%3A%2F%2Fraw.githubusercontent.com%2Fkamalhafsa%2FHello-ARMSWORLD%2Fblob%2Fmaster%2Fappserviceplan%2Fazuredeploy.json"" target="_blank">
+<a href="https://azuredeploy.net/?repository=https://github.com/kamalhafsa/Hello-ARMSWORLD/blob/master/appserviceplan/AzureDeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
-<a href="http://armviz.io/#/?loadhttps://github.com/kamalhafsa/Hello-ARMSWORLD/blob/master/appserviceplan/" target="_blank">
+<a href="http://armviz.io/#/?load=https://github.com/kamalhafsa/Hello-ARMSWORLD/blob/master/appserviceplan/AzureDeploy.json" target="_blank">
 	<img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
