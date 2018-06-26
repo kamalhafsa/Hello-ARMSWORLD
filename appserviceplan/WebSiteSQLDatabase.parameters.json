@@ -1,0 +1,48 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "hostingPlanName": {
+      "value": "IAT-WEBASP-TEST"
+    },
+    "administratorLogin": {
+      "value": "gmiadmin"
+    },
+    "databaseName": {
+      "value": "iat-test-sql"
+    },
+    "skuName": {
+      "value": "S1"
+    },
+    "skuCapacity": {
+      "value": 2
+    },
+    "edition": {
+      "value": "Standard"
+    },
+    "requestedServiceObjectiveName": {
+      "value": "S1"
+    },
+    "storageAccountType": {
+      "value": "Standard_LRS"
+    },
+    "storageAccountName": {
+      "value": "iatest"
+    },
+    "sqlserverName": {
+      "value": "iatestsql"
+    },
+    "Web1": {
+      "value": "iat-webapp-test"
+    },
+    "Web2": {
+      "value": "iat-webapi-test"
+    },
+    "logicAppName": {
+      "value": "iat-sync-po-logic-app"
+    },
+    "integrationAccount": {
+      "value": "iat-integration-test"
+    }
+  }
+}
