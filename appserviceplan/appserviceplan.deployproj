@@ -27,8 +27,8 @@
       <Visible>False</Visible>
     </None>
     <Content Include="Deploy-AzureResourceGroup.ps1" />
-    <Content Include="AzuereDeploy.json" />
-    <Content Include="AzuereDeploy.parameters.json" />
+    <Content Include="AzureDeploy.json" />
+    <Content Include="AzureDeploy.parameters.json" />
   </ItemGroup>
   <Target Name="GetReferenceAssemblyPaths" />
 </Project>
